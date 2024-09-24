@@ -62,6 +62,9 @@ header a {
 span {
   color: var(--green-color);
 }
+.wellcome-container-button{
+  margin: 1px auto;
+}
 .first-button {
   padding: 10px 36px;
   border: 0px;
